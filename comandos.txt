@@ -1,0 +1,15 @@
+***** comandos node *****
+npm init -y => criacao arquivo package.json 
+
+node .\server.js => executando node
+
+npm install http express debug --save => instalação pacotes
+
+**** anotacoes uso javascript ******
+use strict => criterios do javascript
+
+
+****** comandos visual studio *******
+
+ctrl + ' => hotkey terminal
+
