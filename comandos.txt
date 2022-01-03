@@ -13,3 +13,6 @@ use strict => criterios do javascript
 
 ctrl + ' => hotkey terminal
 
+***************************************
+npm install nodemon --save-dev => instalação nodemon apenas em dev
+npm install body-parser --save
